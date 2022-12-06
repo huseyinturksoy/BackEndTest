@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="room_reservation_qa2@room-reservation-qa2.cxvqfpt4mc2y.us-east-1.rds.amazonaws.com" uuid="1fae6928-946d-422e-aaaf-add58b95f4ff">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://room-reservation-qa2.cxvqfpt4mc2y.us-east-1.rds.amazonaws.com:5432/room_reservation_qa2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="room_reservation_qa2@room-reservation-qa2.cxvqfpt4mc2y.us-east-1.rds.amazonaws.com [2]" uuid="52ee9dcf-f807-4e16-8d3f-afc025dae3b2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://room-reservation-qa2.cxvqfpt4mc2y.us-east-1.rds.amazonaws.com:5432/room_reservation_qa2</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
